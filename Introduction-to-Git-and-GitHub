@@ -1,0 +1,9 @@
+Pull updates: git pull origin main
+
+Edit your code.
+
+Stage changes: git add .
+
+Commit changes: git commit -m "daily update"
+
+Push to GitHub: git push origin main
